@@ -304,6 +304,7 @@ Supported by / 支持者:
 * Liu Maoxu, Software Engineer, Amazon
 * Liu Jun, Software Engineer, Guangbao-uni
 * Liu TianYu, Software Engineer, Beijing.China
+* Liu Song, Senior Software Engineer, Alibaba Inc, Beijing, China
 * Liu Yuyang Software Engineer, Guangzhou.China
 * Liz O’Sullivan, former head of annotations at Clarifai
 * Li Youyou, Ph.D. Candidate, China.
@@ -417,6 +418,7 @@ Supported by / 支持者:
 * Swen Wang,Software Engineer, Shanghai.China
 * Taylor Huang (Tairan Huang), Software Engineer, Shanghai, China
 * Thomas Corwin, Software Engineer, Freelancer
+* Thomas Liu, Software Engineer, SAP
 * Tian Chen, Software Engineer,  ShenZhen, China.
 * Tianqi Zhu, Student
 * Tiange Luo, Student
@@ -544,3 +546,4 @@ Supported by / 支持者:
 * Zongbao Feng, Engineer, Baidu
 * Zora Tung, Software Engineer, Google
 * Zuokun Ouyang, PhD Student, Université d'Orléans
+* BaiChao Liu(刘百超), High School Student
